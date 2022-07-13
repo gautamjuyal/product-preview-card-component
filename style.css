@@ -52,11 +52,12 @@
     font-family: 'Montserrat', sans-serif;
     color:hsl(228, 12%, 48%);;
     font-size:14px;
+    line-height: 1.5;
 }
 
 .description h1{
     color: hsl(212, 21%, 14%);
-    font-size:2.1rem;
+    font-size:2rem;
 }
 
 .pricing{
@@ -106,7 +107,7 @@
     text-decoration: none;
     color:white;
     font-family:'Montserrat', sans-serif;
-    font-weight: 500;
+    font-weight: 700;
     display:flex;
     align-items:center;
     gap:8px;
